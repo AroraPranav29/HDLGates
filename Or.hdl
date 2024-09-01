@@ -1,4 +1,4 @@
-//a or b = not (not a and not b)
+
 
 CHIP Or{
     IN a, b;
